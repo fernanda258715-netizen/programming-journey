@@ -1,0 +1,7 @@
+C:\Users\user\Documents\fern\Latihan_2\Latihan_2\bin\Debug\Latihan_2.exe.config
+C:\Users\user\Documents\fern\Latihan_2\Latihan_2\bin\Debug\Latihan_2.exe
+C:\Users\user\Documents\fern\Latihan_2\Latihan_2\bin\Debug\Latihan_2.pdb
+C:\Users\user\Documents\fern\Latihan_2\Latihan_2\obj\Debug\Latihan_2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\fern\Latihan_2\Latihan_2\obj\Debug\Latihan_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\fern\Latihan_2\Latihan_2\obj\Debug\Latihan_2.exe
+C:\Users\user\Documents\fern\Latihan_2\Latihan_2\obj\Debug\Latihan_2.pdb
