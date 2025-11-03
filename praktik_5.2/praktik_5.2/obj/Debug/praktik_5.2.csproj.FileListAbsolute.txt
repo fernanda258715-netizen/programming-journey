@@ -1,0 +1,7 @@
+C:\Users\user\Documents\fern\praktik_5.2\praktik_5.2\bin\Debug\praktik_5.2.exe.config
+C:\Users\user\Documents\fern\praktik_5.2\praktik_5.2\bin\Debug\praktik_5.2.exe
+C:\Users\user\Documents\fern\praktik_5.2\praktik_5.2\bin\Debug\praktik_5.2.pdb
+C:\Users\user\Documents\fern\praktik_5.2\praktik_5.2\obj\Debug\praktik_5.2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\fern\praktik_5.2\praktik_5.2\obj\Debug\praktik_5.2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\fern\praktik_5.2\praktik_5.2\obj\Debug\praktik_5.2.exe
+C:\Users\user\Documents\fern\praktik_5.2\praktik_5.2\obj\Debug\praktik_5.2.pdb
