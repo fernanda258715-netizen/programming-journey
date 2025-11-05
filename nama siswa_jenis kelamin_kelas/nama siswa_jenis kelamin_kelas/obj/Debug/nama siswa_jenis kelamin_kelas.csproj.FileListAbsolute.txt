@@ -1,0 +1,2 @@
+C:\Users\user\Documents\fern\nama siswa_jenis kelamin_kelas\nama siswa_jenis kelamin_kelas\obj\Debug\nama siswa_jenis kelamin_kelas.csproj.AssemblyReference.cache
+C:\Users\user\Documents\fern\nama siswa_jenis kelamin_kelas\nama siswa_jenis kelamin_kelas\obj\Debug\nama siswa_jenis kelamin_kelas.csproj.CoreCompileInputs.cache
