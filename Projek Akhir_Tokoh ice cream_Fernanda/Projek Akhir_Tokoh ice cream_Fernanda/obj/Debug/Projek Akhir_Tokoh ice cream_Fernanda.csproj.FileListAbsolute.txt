@@ -1,0 +1,8 @@
+C:\Users\user\Documents\fern\Projek Akhir_Tokoh ice cream_Fernanda\Projek Akhir_Tokoh ice cream_Fernanda\bin\Debug\Projek Akhir_Tokoh ice cream_Fernanda.exe.config
+C:\Users\user\Documents\fern\Projek Akhir_Tokoh ice cream_Fernanda\Projek Akhir_Tokoh ice cream_Fernanda\bin\Debug\Projek Akhir_Tokoh ice cream_Fernanda.exe
+C:\Users\user\Documents\fern\Projek Akhir_Tokoh ice cream_Fernanda\Projek Akhir_Tokoh ice cream_Fernanda\bin\Debug\Projek Akhir_Tokoh ice cream_Fernanda.pdb
+C:\Users\user\Documents\fern\Projek Akhir_Tokoh ice cream_Fernanda\Projek Akhir_Tokoh ice cream_Fernanda\obj\Debug\Projek Akhir_Tokoh ice cream_Fernanda.csproj.AssemblyReference.cache
+C:\Users\user\Documents\fern\Projek Akhir_Tokoh ice cream_Fernanda\Projek Akhir_Tokoh ice cream_Fernanda\obj\Debug\Projek Akhir_Tokoh ice cream_Fernanda.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\fern\Projek Akhir_Tokoh ice cream_Fernanda\Projek Akhir_Tokoh ice cream_Fernanda\obj\Debug\Projek Akhir_Tokoh ice cream_Fernanda.exe
+C:\Users\user\Documents\fern\Projek Akhir_Tokoh ice cream_Fernanda\Projek Akhir_Tokoh ice cream_Fernanda\obj\Debug\Projek Akhir_Tokoh ice cream_Fernanda.pdb
+C:\Users\user\Documents\fern\Projek Akhir_Tokoh ice cream_Fernanda\Projek Akhir_Tokoh ice cream_Fernanda\obj\Debug\Projek Akhir_Tokoh ice cream_Fernanda.exe.config
